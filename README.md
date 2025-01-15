@@ -40,7 +40,7 @@ localStorage: For saving spreadsheet data locally
 
 ### Installation
 ```bash
-git clone [repository-url]
+git clone https://github.com/Devdengrae/spreadsheet.git
 cd spreadsheet
 npm install
 npm start
